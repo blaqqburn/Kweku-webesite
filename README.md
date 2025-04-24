@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kweku – My Journey</title>
+  <meta name="description" content="Kweku Nsurogya's soulful journey — rooted in Ghana, grown in Germany. A story of code, music, fitness, and culture." />
+  <link rel="icon" href="https://via.placeholder.com/32" type="image/png" />
   <style>
     body {
       background-color: #fdfaf6;
@@ -79,7 +81,7 @@
 </header>
 
 <section>
-  <img class="profile-pic" src="https://link_to_your_image.jpg" alt="Kweku Profile Picture" />
+  <img class="profile-pic" src="https://via.placeholder.com/180" alt="Kweku Profile Picture" />
   <h2>About Me</h2>
   <p>I’m <span class="highlight">Kweku Nsurogya</span>. Born in Ghana, now rooted in Germany for almost a decade. Calm, conscious, and creative – I live through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">code</span>. Life isn’t just about existing — it’s about being truly present, grateful, and evolving.</p>
 </section>
@@ -121,11 +123,13 @@
 
 <section>
   <h2>Support & Connections</h2>
-  <p>You can support or reach me via email or PayPal:</p>
+  <p>You can support or reach me via email, GitHub, or PayPal:</p>
   <div class="socials">
     <a href="mailto:kwe_burns@icloud.com">Email Me</a>
     <a href="https://paypal.me/kwe_burns" target="_blank">Donate via PayPal</a>
+    <a href="https://github.com/blaqqburn" target="_blank">GitHub</a>
     <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
+    <a href="https://www.facebook.com/BurnaBurns" target="_blank">Facebook</a>
   </div>
 </section>
 
