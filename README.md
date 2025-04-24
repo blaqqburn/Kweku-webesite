@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Kweku – My Journey</title>
+  <title>Freegate – The King's Journey</title>
+  <meta name="description" content="Explore the soulful journey of Freegate, a rooted Rastafarian King. Discover reggae culture, dreadlocks wisdom, African connections, and the spirit of togetherness.">
   <style>
     body {
       background-color: #fdfaf6;
@@ -75,33 +76,33 @@
 <body>
 
 <header>
-  <h1>Kweku – My Journey</h1>
+  <h1>Freegate – The King's Journey</h1>
 </header>
 
 <section>
   <img class="profile-pic" src="https://link_to_your_image.jpg" alt="Kweku Profile Picture" />
-  <h2>About Me</h2>
-  <p>I’m <span class="highlight">Kweku Nsurogya</span>. Born in Ghana, now rooted in Germany for almost a decade. Calm, conscious, and creative – I live through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">code</span>. Life isn’t just about existing — it’s about being truly present, grateful, and evolving.</p>
+  <h2>About I & I</h2>
+  <p>I’m <span class="highlight">Kweku Nsurogya</span> – also known as <span class="highlight">Freegate</span>. A rooted <strong>Rastafarian</strong> King from Ghana, living in Germany for nearly a decade. Calm, spiritual, and conscious. I rise through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">coding</span>. Life is more than existence — it's about <strong>livication</strong>, gratitude, and growth. <br><br> <strong>Let’s Share The Spirit of Togetherness.</strong></p>
 </section>
 
 <section>
-  <h2>Hobbies & Passions</h2>
+  <h2>I-nity in Motion</h2>
   <ul>
-    <li>Drawing, dancing, lifting & full-body training</li>
-    <li>Healthy, spicy Ghanaian meals & smoothies</li>
-    <li>Web development & creative projects</li>
-    <li>Connecting with like minds & building soulful ideas</li>
+    <li>Drawing, dancing, full-body workouts & deep meditations</li>
+    <li>Ghanaian spicy meals, smoothies & plant-based strength</li>
+    <li>Creative coding, storytelling & cultural elevation</li>
+    <li>Reggae, roots, and building soul with conscious people</li>
   </ul>
 </section>
 
 <section>
-  <h2>Life Motto</h2>
-  <p><em>“Let love lead – I stay in my lane, calm but present. I switch lanes only to lift others.”</em></p>
+  <h2>Rasta Way & Wisdom</h2>
+  <p><em>"Forward ever, backward never" – I walk with the ancestors, uplift the youth, and honor the Lion within.</em></p>
 </section>
 
 <section>
   <h2>Reggae & Dancehall Vibes</h2>
-  <p>Here are artists I vibe to regularly – bridging Ghana and global sounds:</p>
+  <p>Artists that raise my frequency and reflect the journey:</p>
   <div class="music-links">
     <a href="https://bobmarley.com" target="_blank">Bob Marley</a>
     <a href="https://www.instagram.com/bujubanton" target="_blank">Buju Banton</a>
@@ -120,29 +121,44 @@
 </section>
 
 <section>
-  <h2>Dreadlock Care & Maintenance</h2>
-  <p>Strong, healthy locks are more than just a style — they’re a statement of patience, roots, and royalty. For expert care and maintenance, get in touch with someone trusted in the community:</p>
-  <div class="socials">
-    <p><strong>Holar Dreads</strong></p>
-    <p>Instagram: <a href="https://www.instagram.com/holardreads" target="_blank">@holardreads</a></p>
-    <p>Facebook: <a href="https://www.facebook.com/holardread" target="_blank">Holar Dread</a></p>
-    <p>Phone: <a href="tel:+491747246436">+49 174 7246436</a></p>
+  <h2>Locks & Natural Elevation</h2>
+  <p><strong>Dreadlocks aren’t just style — they are soul. Treat them with herbs, roots, patience, and care. Use natural oils, avoid chemicals, and embrace the rhythm of growth.</strong></p>
+  <p>Need expert care? Connect with:</p>
+  <div>
+    <strong>Holar Dreads</strong><br>
+    Instagram: <a href="https://instagram.com/holardreads" target="_blank">@holardreads</a><br>
+    Facebook: Holar Dread<br>
+    Phone: +49 174 7246436
   </div>
-  <p><em>"Locks done with love, roots kept royal."</em></p>
 </section>
 
 <section>
-  <h2>Support & Connections</h2>
-  <p>You can support or reach me via email or PayPal:</p>
+  <h2>Roots Products</h2>
+  <p>Find creams, oils, and hair food in Afro shops around Germany or try:</p>
+  <ul>
+    <li><a href="https://www.afroshop-online.de" target="_blank">Afroshop-Online.de</a></li>
+    <li><a href="https://www.beauty-africa.de" target="_blank">Beauty-Africa.de</a></li>
+    <li><a href="https://www.afrikafestival.de/shops" target="_blank">Afrika Festival Shops</a></li>
+  </ul>
+</section>
+
+<section>
+  <h2>Culture & Summer Vibes</h2>
+  <p>Stay tuned for summer programs exploring cultural differences, food & music fusion, and soulful events from Hamburg to Accra. All for I-nity and awareness.</p>
+</section>
+
+<section>
+  <h2>Support I & I</h2>
+  <p>Wanna support the movement?</p>
   <div class="socials">
-    <a href="mailto:kwe_burns@icloud.com">Email Me</a>
-    <a href="https://paypal.me/kwe_burns" target="_blank">Donate via PayPal</a>
+    <a href="mailto:kwe_burns@icloud.com">Email</a>
+    <a href="https://paypal.me/kwe_burns" target="_blank">Donate</a>
     <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
   </div>
 </section>
 
 <footer>
-  <p>Created with soul by Kweku Nsurogya &mdash; © 2025</p>
+  <p>Powered with I-ration and soul – Freegate, The King’s Journey – © 2025</p>
 </footer>
 
 </body>
