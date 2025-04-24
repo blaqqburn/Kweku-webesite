@@ -3,6 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Kweku Nsurogya's journey of fitness, music, and creativity, blending Ghanaian and German culture." />
+  <meta name="keywords" content="fitness, music, Ghana, Germany, web development, reggae, dancehall" />
+  <meta name="author" content="Kweku Nsurogya" />
+  <meta property="og:title" content="Kweku – My Journey" />
+  <meta property="og:description" content="Explore Kweku's passion for fitness, music, and creativity." />
+  <meta property="og:image" content="URL_to_your_image.jpg" />
+  <meta property="og:url" content="https://blaqqburn.github.io/Kweku-webesite/" />
   <title>Kweku – My Journey</title>
   <style>
     body {
@@ -56,7 +63,7 @@
       text-decoration: none;
       font-weight: bold;
     }
-    .music-links a, .cannabis-links a {
+    .music-links a {
       display: inline-block;
       margin: 8px;
       padding: 6px 12px;
@@ -66,7 +73,7 @@
       border-radius: 4px;
       font-size: 0.95em;
     }
-    .music-links a:hover, .cannabis-links a:hover {
+    .music-links a:hover {
       background: #ffd700;
       color: #000;
     }
@@ -126,18 +133,6 @@
     <a href="mailto:kwe_burns@icloud.com">Email Me</a>
     <a href="https://paypal.me/kwe_burns" target="_blank">Donate via PayPal</a>
     <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
-  </div>
-</section>
-
-<section>
-  <h2>Trusted Cannabis Shops</h2>
-  <p>Looking to explore quality cannabis products? Here are some trusted online stores where you can find premium cannabis worldwide (always check local laws before ordering):</p>
-  <div class="cannabis-links">
-    <a href="https://www.leafly.com" target="_blank">Leafly</a>
-    <a href="https://www.cannabisstore.com" target="_blank">Cannabis Store</a>
-    <a href="https://www.drganja.com" target="_blank">Dr. Ganja</a>
-    <a href="https://www.weedmaps.com" target="_blank">Weedmaps</a>
-    <a href="https://www.solidweed.com" target="_blank">Solid Weed</a>
   </div>
 </section>
 
