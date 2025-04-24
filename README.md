@@ -2,164 +2,87 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Freegate – The King's Journey</title>
-  <meta name="description" content="Explore the soulful journey of Freegate, a rooted Rastafarian King. Discover reggae culture, dreadlocks wisdom, African connections, and the spirit of togetherness.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="Vwre_8EZeTJ557Q03PoYOYA-Z5TyCYv5WnX6S9eCDzc" />
+  <meta name="description" content="Freegate – The King’s Journey. A soulful digital temple for culture, dreadlock vibes, Rastafari elevation, and global unity through rhythm and roots." />
+  <meta name="keywords" content="Freegate, Rastafari, reggae, dancehall, Ghanaian roots, dreadlocks care, African diaspora, Hansecity, culture, togetherness, spiritual freedom" />
+  <meta name="author" content="Freegate – The King’s Journey" />
+  <title>Freegate – The King’s Journey</title>
+  <link rel="stylesheet" href="styles.css" />
   <style>
     body {
-      background-color: #fdfaf6;
-      font-family: 'Segoe UI', sans-serif;
-      color: #222;
       margin: 0;
-      padding: 0;
+      font-family: 'Trebuchet MS', sans-serif;
+      background-image: url('A_vibrant_digital_illustration_poster_features_Ras.png');
+      background-size: cover;
+      background-position: center;
+      color: #fff;
+      text-shadow: 1px 1px 4px #000;
     }
     header {
-      background: linear-gradient(90deg, #006400, #ffcc00, #d60000);
-      color: white;
-      padding: 30px 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 2rem;
       text-align: center;
     }
-    header h1 {
-      margin: 0;
-      font-size: 2.4em;
-      letter-spacing: 1px;
+    h1 {
+      font-size: 2.5rem;
+      color: gold;
+    }
+    p.motto {
+      font-style: italic;
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
     }
     section {
-      padding: 25px 20px;
-      border-bottom: 1px solid #eee;
-    }
-    h2 {
-      color: #444;
-    }
-    .highlight {
-      font-weight: bold;
-      color: #d60000;
-    }
-    .profile-pic {
-      display: block;
-      max-width: 180px;
-      margin: 20px auto;
-      border-radius: 50%;
-    }
-    ul {
-      list-style-type: circle;
-      padding-left: 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 2rem;
+      padding: 1.5rem;
+      border-radius: 10px;
     }
     footer {
-      background-color: #004466;
-      color: white;
       text-align: center;
-      padding: 20px;
+      padding: 1rem;
+      background-color: rgba(0, 0, 0, 0.7);
+      font-size: 0.9rem;
     }
-    .socials a {
-      color: #ffcc00;
-      margin: 0 10px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .music-links a {
-      display: inline-block;
-      margin: 8px;
-      padding: 6px 12px;
-      background: #eeeeee;
-      color: #222;
-      text-decoration: none;
-      border-radius: 4px;
-      font-size: 0.95em;
-    }
-    .music-links a:hover {
-      background: #ffd700;
-      color: #000;
+    a {
+      color: #00ffcc;
     }
   </style>
 </head>
 <body>
+  <header>
+    <h1>Freegate – The King’s Journey</h1>
+    <p class="motto">"Let's Share The Spirit of Togetherness"</p>
+  </header>
 
-<header>
-  <h1>Freegate – The King's Journey</h1>
-</header>
+  <section>
+    <h2>Welcome to the Roots</h2>
+    <p>Rise and give thanks. This is a digital groundation where freedom dances with rhythm. From Ghana to Germany, from Accra to Hansecity – we chant down Babylon, lift culture, and promote livity with love.</p>
+  </section>
 
-<section>
-  <img class="profile-pic" src="https://link_to_your_image.jpg" alt="Kweku Profile Picture" />
-  <h2>About I & I</h2>
-  <p>I’m <span class="highlight">Kweku Nsurogya</span> – also known as <span class="highlight">Freegate</span>. A rooted <strong>Rastafarian</strong> King from Ghana, living in Germany for nearly a decade. Calm, spiritual, and conscious. I rise through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">coding</span>. Life is more than existence — it's about <strong>livication</strong>, gratitude, and growth. <br><br> <strong>Let’s Share The Spirit of Togetherness.</strong></p>
-</section>
+  <section>
+    <h2>Dreadlocks Care & Lifestyle</h2>
+    <p>Real kings tend their crown. Learn how to maintain your locs, what natural oils and foods to feed them, and find trusted locticians like <strong>Holar Dreads</strong> (IG: <a href="https://instagram.com/holardreads">@holardreads</a>, Phone: +49 174 7246436).</p>
+  </section>
 
-<section>
-  <h2>I-nity in Motion</h2>
-  <ul>
-    <li>Drawing, dancing, full-body workouts & deep meditations</li>
-    <li>Ghanaian spicy meals, smoothies & plant-based strength</li>
-    <li>Creative coding, storytelling & cultural elevation</li>
-    <li>Reggae, roots, and building soul with conscious people</li>
-  </ul>
-</section>
+  <section>
+    <h2>Roots & Reggae Links</h2>
+    <p>Vibes from the Kings & Queens: <a href="https://www.youtube.com/results?search_query=Bob+Marley">Bob Marley</a>, <a href="https://www.youtube.com/results?search_query=Buju+Banton">Buju Banton</a>, <a href="https://www.youtube.com/results?search_query=Stonebwoy">Stonebwoy</a>, <a href="https://www.youtube.com/results?search_query=Masicka">Masicka</a>, and more.</p>
+  </section>
 
-<section>
-  <h2>Rasta Way & Wisdom</h2>
-  <p><em>"Forward ever, backward never" – I walk with the ancestors, uplift the youth, and honor the Lion within.</em></p>
-</section>
+  <section>
+    <h2>Culture, Events & Summer Vibes</h2>
+    <p>We highlight cultural events and summer programs celebrating food, music, and spiritual elevation. Plus, check out African shops in Germany and global herbal roots vendors soon.</p>
+  </section>
 
-<section>
-  <h2>Reggae & Dancehall Vibes</h2>
-  <p>Artists that raise my frequency and reflect the journey:</p>
-  <div class="music-links">
-    <a href="https://bobmarley.com" target="_blank">Bob Marley</a>
-    <a href="https://www.instagram.com/bujubanton" target="_blank">Buju Banton</a>
-    <a href="https://www.instagram.com/sizzlakalonjimuzik" target="_blank">Sizzla</a>
-    <a href="https://www.instagram.com/vybzkartel" target="_blank">Vybz Kartel</a>
-    <a href="https://www.instagram.com/mavadogully" target="_blank">Mavado</a>
-    <a href="https://www.instagram.com/shattawalenima" target="_blank"><strong>Shatta Wale (Ghana)</strong></a>
-    <a href="https://www.instagram.com/stonebwoy" target="_blank"><strong>Stonebwoy (Ghana)</strong></a>
-    <a href="https://www.instagram.com/popcaanmusic" target="_blank">Popcaan</a>
-    <a href="https://www.instagram.com/masickamusic" target="_blank">Masicka</a>
-    <a href="https://www.instagram.com/jahmielofficial" target="_blank">Jahmiel</a>
-    <a href="https://www.instagram.com/govana" target="_blank">Govana</a>
-    <a href="https://www.instagram.com/manhimself_alkaline" target="_blank">Alkaline</a>
-    <a href="https://www.instagram.com/uptopboss_official" target="_blank">Teejay</a>
-  </div>
-</section>
+  <section>
+    <h2>Stay Tuned & Spread the Message</h2>
+    <p>One Love. Bless up. Share the vibes. Freegate means freedom — and this is just the beginning.</p>
+  </section>
 
-<section>
-  <h2>Locks & Natural Elevation</h2>
-  <p><strong>Dreadlocks aren’t just style — they are soul. Treat them with herbs, roots, patience, and care. Use natural oils, avoid chemicals, and embrace the rhythm of growth.</strong></p>
-  <p>Need expert care? Connect with:</p>
-  <div>
-    <strong>Holar Dreads</strong><br>
-    Instagram: <a href="https://instagram.com/holardreads" target="_blank">@holardreads</a><br>
-    Facebook: Holar Dread<br>
-    Phone: +49 174 7246436
-  </div>
-</section>
-
-<section>
-  <h2>Roots Products</h2>
-  <p>Find creams, oils, and hair food in Afro shops around Germany or try:</p>
-  <ul>
-    <li><a href="https://www.afroshop-online.de" target="_blank">Afroshop-Online.de</a></li>
-    <li><a href="https://www.beauty-africa.de" target="_blank">Beauty-Africa.de</a></li>
-    <li><a href="https://www.afrikafestival.de/shops" target="_blank">Afrika Festival Shops</a></li>
-  </ul>
-</section>
-
-<section>
-  <h2>Culture & Summer Vibes</h2>
-  <p>Stay tuned for summer programs exploring cultural differences, food & music fusion, and soulful events from Hamburg to Accra. All for I-nity and awareness.</p>
-</section>
-
-<section>
-  <h2>Support I & I</h2>
-  <p>Wanna support the movement?</p>
-  <div class="socials">
-    <a href="mailto:kwe_burns@icloud.com">Email</a>
-    <a href="https://paypal.me/kwe_burns" target="_blank">Donate</a>
-    <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
-  </div>
-</section>
-
-<footer>
-  <p>Powered with I-ration and soul – Freegate, The King’s Journey – © 2025</p>
-</footer>
-
+  <footer>
+    <p>Freegate – The King’s Journey | Roots. Royalty. Revolution. | Contact: burnaburns121@gmail.com</p>
+  </footer>
 </body>
 </html>
