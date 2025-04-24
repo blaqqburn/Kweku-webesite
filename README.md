@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kweku – My Journey</title>
-  <meta name="description" content="Kweku Nsurogya's soulful journey — rooted in Ghana, grown in Germany. A story of code, music, fitness, and culture." />
-  <link rel="icon" href="https://via.placeholder.com/32" type="image/png" />
   <style>
     body {
       background-color: #fdfaf6;
@@ -58,7 +56,7 @@
       text-decoration: none;
       font-weight: bold;
     }
-    .music-links a {
+    .music-links a, .cannabis-links a {
       display: inline-block;
       margin: 8px;
       padding: 6px 12px;
@@ -68,7 +66,7 @@
       border-radius: 4px;
       font-size: 0.95em;
     }
-    .music-links a:hover {
+    .music-links a:hover, .cannabis-links a:hover {
       background: #ffd700;
       color: #000;
     }
@@ -81,7 +79,7 @@
 </header>
 
 <section>
-  <img class="profile-pic" src="https://via.placeholder.com/180" alt="Kweku Profile Picture" />
+  <img class="profile-pic" src="https://link_to_your_image.jpg" alt="Kweku Profile Picture" />
   <h2>About Me</h2>
   <p>I’m <span class="highlight">Kweku Nsurogya</span>. Born in Ghana, now rooted in Germany for almost a decade. Calm, conscious, and creative – I live through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">code</span>. Life isn’t just about existing — it’s about being truly present, grateful, and evolving.</p>
 </section>
@@ -123,13 +121,23 @@
 
 <section>
   <h2>Support & Connections</h2>
-  <p>You can support or reach me via email, GitHub, or PayPal:</p>
+  <p>You can support or reach me via email or PayPal:</p>
   <div class="socials">
     <a href="mailto:kwe_burns@icloud.com">Email Me</a>
     <a href="https://paypal.me/kwe_burns" target="_blank">Donate via PayPal</a>
-    <a href="https://github.com/blaqqburn" target="_blank">GitHub</a>
     <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
-    <a href="https://www.facebook.com/BurnaBurns" target="_blank">Facebook</a>
+  </div>
+</section>
+
+<section>
+  <h2>Trusted Cannabis Shops</h2>
+  <p>Looking to explore quality cannabis products? Here are some trusted online stores where you can find premium cannabis worldwide (always check local laws before ordering):</p>
+  <div class="cannabis-links">
+    <a href="https://www.leafly.com" target="_blank">Leafly</a>
+    <a href="https://www.cannabisstore.com" target="_blank">Cannabis Store</a>
+    <a href="https://www.drganja.com" target="_blank">Dr. Ganja</a>
+    <a href="https://www.weedmaps.com" target="_blank">Weedmaps</a>
+    <a href="https://www.solidweed.com" target="_blank">Solid Weed</a>
   </div>
 </section>
 
