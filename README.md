@@ -3,14 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Kweku Nsurogya's journey of fitness, music, and creativity, blending Ghanaian and German culture." />
-  <meta name="keywords" content="fitness, music, Ghana, Germany, web development, reggae, dancehall" />
-  <meta name="author" content="Kweku Nsurogya" />
-  <meta property="og:title" content="Kweku – My Journey" />
-  <meta property="og:description" content="Explore Kweku's passion for fitness, music, and creativity." />
-  <meta property="og:image" content="URL_to_your_image.jpg" />
-  <meta property="og:url" content="https://blaqqburn.github.io/Kweku-webesite/" />
-  <title>Kweku – My Journey</title>
+  <title>Kweku – Elevation Journey</title>
   <style>
     body {
       background-color: #fdfaf6;
@@ -27,7 +20,7 @@
     }
     header h1 {
       margin: 0;
-      font-size: 2.4em;
+      font-size: 2.5em;
       letter-spacing: 1px;
     }
     section {
@@ -48,11 +41,11 @@
       border-radius: 50%;
     }
     ul {
-      list-style-type: circle;
+      list-style-type: square;
       padding-left: 20px;
     }
     footer {
-      background-color: #004466;
+      background-color: #004420;
       color: white;
       text-align: center;
       padding: 20px;
@@ -77,46 +70,56 @@
       background: #ffd700;
       color: #000;
     }
+    .external-links a {
+      display: block;
+      margin: 6px 0;
+      color: #005500;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .external-links a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>Kweku – My Journey</h1>
+  <h1>Kweku – Elevation Journey</h1>
 </header>
 
 <section>
   <img class="profile-pic" src="https://link_to_your_image.jpg" alt="Kweku Profile Picture" />
   <h2>About Me</h2>
-  <p>I’m <span class="highlight">Kweku Nsurogya</span>. Born in Ghana, now rooted in Germany for almost a decade. Calm, conscious, and creative – I live through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">code</span>. Life isn’t just about existing — it’s about being truly present, grateful, and evolving.</p>
+  <p>I’m <span class="highlight">Kweku Nsurogya</span> — born in Ghana, grounded in Germany, crowned in consciousness. A true <strong>Rastafarian King</strong>, evolving in rhythm with life. Through <span class="highlight">fitness</span>, <span class="highlight">music</span>, and <span class="highlight">code</span>, I walk the royal road of elevation. Life is not just to exist — it's to rise, reflect, and build.</p>
 </section>
 
 <section>
   <h2>Hobbies & Passions</h2>
   <ul>
-    <li>Drawing, dancing, lifting & full-body training</li>
-    <li>Healthy, spicy Ghanaian meals & smoothies</li>
-    <li>Web development & creative projects</li>
-    <li>Connecting with like minds & building soulful ideas</li>
+    <li>Dancing, drawing, lifting & full-body training</li>
+    <li>Spicy Ghanaian meals, smoothies, and dread care</li>
+    <li>Web creativity & soulful expression</li>
+    <li>Raising culture, connecting minds, living free</li>
   </ul>
 </section>
 
 <section>
-  <h2>Life Motto</h2>
-  <p><em>“Let love lead – I stay in my lane, calm but present. I switch lanes only to lift others.”</em></p>
+  <h2>My Motto</h2>
+  <p><em>“Let love lead. I don’t just move — I elevate. Calm, present, powerful.”</em></p>
 </section>
 
 <section>
   <h2>Reggae & Dancehall Vibes</h2>
-  <p>Here are artists I vibe to regularly – bridging Ghana and global sounds:</p>
+  <p>Global artists I tune to, bridging African roots & island fire:</p>
   <div class="music-links">
     <a href="https://bobmarley.com" target="_blank">Bob Marley</a>
     <a href="https://www.instagram.com/bujubanton" target="_blank">Buju Banton</a>
     <a href="https://www.instagram.com/sizzlakalonjimuzik" target="_blank">Sizzla</a>
     <a href="https://www.instagram.com/vybzkartel" target="_blank">Vybz Kartel</a>
     <a href="https://www.instagram.com/mavadogully" target="_blank">Mavado</a>
-    <a href="https://www.instagram.com/shattawalenima" target="_blank"><strong>Shatta Wale (Ghana)</strong></a>
-    <a href="https://www.instagram.com/stonebwoy" target="_blank"><strong>Stonebwoy (Ghana)</strong></a>
+    <a href="https://www.instagram.com/shattawalenima" target="_blank">Shatta Wale</a>
+    <a href="https://www.instagram.com/stonebwoy" target="_blank">Stonebwoy</a>
     <a href="https://www.instagram.com/popcaanmusic" target="_blank">Popcaan</a>
     <a href="https://www.instagram.com/masickamusic" target="_blank">Masicka</a>
     <a href="https://www.instagram.com/jahmielofficial" target="_blank">Jahmiel</a>
@@ -127,17 +130,47 @@
 </section>
 
 <section>
-  <h2>Support & Connections</h2>
-  <p>You can support or reach me via email or PayPal:</p>
+  <h2>Summer Programs & Culture</h2>
+  <p>Explore rhythms and roots. Join cultural events blending African vibes with German soul:</p>
+  <ul>
+    <li>Food festivals & music workshops</li>
+    <li>Cultural dialogues & soul-food experiences</li>
+    <li>Reggae-dancehall community events</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Links: African Shops in Germany</h2>
+  <div class="external-links">
+    <a href="https://www.afrika-markt.de/" target="_blank">Afrika Markt</a>
+    <a href="https://afrosmartshop.com/" target="_blank">Afro Smart Shop</a>
+    <a href="https://www.africaboutik.us/" target="_blank">AfricaBoutik Berlin</a>
+  </div>
+</section>
+
+<section>
+  <h2>Dreadlocks Lifestyle</h2>
+  <p>Dreads are more than hair — they’re heritage. Here's how I maintain the crown:</p>
+  <ul>
+    <li>Keep it clean with natural shampoos (no sulfates)</li>
+    <li>Oil the roots with coconut, castor, or hemp oil</li>
+    <li>Let them breathe – avoid constant retwisting</li>
+    <li>Respect your hair like your temple</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Support & Contact</h2>
+  <p>Walk with me or support the movement:</p>
   <div class="socials">
-    <a href="mailto:kwe_burns@icloud.com">Email Me</a>
-    <a href="https://paypal.me/kwe_burns" target="_blank">Donate via PayPal</a>
+    <a href="mailto:kwe_burns@icloud.com">Email</a>
+    <a href="https://paypal.me/kwe_burns" target="_blank">Donate</a>
     <a href="https://www.instagram.com/blaqqburna" target="_blank">@blaqqburna</a>
   </div>
 </section>
 
 <footer>
-  <p>Created with soul by Kweku Nsurogya &mdash; © 2025</p>
+  <p>Created by Kweku Nsurogya – Guided by roots, raised by rhythm, crowned by consciousness.</p>
 </footer>
 
 </body>
