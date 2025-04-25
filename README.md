@@ -2,120 +2,97 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="google-site-verification" content="Vwre_8EZeTJ557Q03PoYOYA-Z5TyCYv5WnX6S9eCDzc" />
   <title>Freegate – The King's Journey</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
   <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: url("A_vibrant_digital_illustration_poster_features_Ras.png") no-repeat center center fixed;
+      font-family: 'Segoe UI', sans-serif;
+      background-image: url('https://blaqqburn.github.io/Kweku-webesite/bg.png');
       background-size: cover;
-      color: #f4f4f4;
+      background-attachment: fixed;
+      background-position: center;
+      color: white;
+      text-shadow: 1px 1px 3px black;
     }
-    header {
-      background-color: rgba(0, 0, 0, 0.6);
-      padding: 2rem;
+    header, footer {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 20px;
       text-align: center;
     }
     h1 {
-      margin: 0;
-      font-size: 3rem;
-      font-weight: bold;
-      color: #ffd700;
+      font-size: 2.5em;
+      color: gold;
+      margin-bottom: 10px;
     }
-    p {
-      font-size: 1.2rem;
+    p, ul {
+      max-width: 800px;
+      margin: 10px auto;
+      padding: 0 20px;
     }
     section {
-      background-color: rgba(0, 0, 0, 0.7);
-      margin: 2rem;
-      padding: 2rem;
-      border-radius: 10px;
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 12px;
+      width: 90%;
+      max-width: 900px;
     }
     a {
-      color: #00ffcc;
-      text-decoration: none;
+      color: #ffcc00;
     }
-    .footer {
-      text-align: center;
-      margin-top: 3rem;
-      padding: 1rem;
-      font-style: italic;
-      background-color: rgba(0, 0, 0, 0.6);
+    .contact {
+      font-size: 0.95em;
+      color: #ccc;
     }
   </style>
 </head>
 <body>
   <header>
     <h1>Freegate – The King's Journey</h1>
-    <p>"Let's Share The Spirit of Togetherness"</p>
-    <p><em>Rastafari livity | Culture | Music | Elevation</em></p>
+    <p><strong>"Let's Share The Spirit of Togetherness"</strong></p>
   </header>
 
   <section>
-    <h2>About</h2>
-    <p>Welcome to Freegate, a space where the energy of Accra and Hamburg blend through music, roots, freedom, and royalty. I'm a true-rooted Rastafarian—King by soul, rhythm by nature. </p>
-    <p>This site highlights dreadlocks lifestyle, African-German cultural fusion, and waves of reggae & dancehall vibration.</p>
+    <h2>Welcome</h2>
+    <p>This is a fusion of Accra and Hamburg vibes. A soulful journey through culture, reggae, dancehall, and Afrobeats. True to the roots, this site celebrates the evolution of royalty, the spirit of freedom, and the strength of a Rastaman King.</p>
   </section>
 
   <section>
-    <h2>Rasta Jargons</h2>
+    <h2>Reggae, Dancehall & Afrobeats</h2>
+    <p>Experience the vibrations of legends and new wave warriors:</p>
     <ul>
-      <li>“Irie” – Everything is good, peaceful</li>
-      <li>“Livity” – Way of life rooted in righteousness</li>
-      <li>“One love” – Universal love and respect</li>
-      <li>“Upful and blessed” – Living with positivity</li>
+      <li>Bob Marley, Buju Banton, Richie Spice, Sizzla</li>
+      <li>Vybz Kartel, Mavado, Shatta Wale, Stonebwoy</li>
+      <li>Popcaan, Masicka, Jahmiel, Govana, Alkaline, Teejay</li>
     </ul>
+    <p>And the Afrobeats kings and queens shaping the global groove.</p>
   </section>
 
   <section>
-    <h2>Dreadlocks Care & Products</h2>
-    <p>Maintain your crown with proper care and love:</p>
-    <ul>
-      <li>Wash regularly with residue-free shampoo</li>
-      <li>Moisturize with natural oils (coconut, olive, castor)</li>
-      <li>Avoid build-up: use light, organic hair food</li>
-      <li>Protect your locks while sleeping with silk/satin</li>
-    </ul>
-    <p>Where to shop:</p>
-    <ul>
-      <li><strong>Holar Dreads</strong> – <a href="https://www.instagram.com/holardreads" target="_blank">@holardreads</a> | +49 174 7246436</li>
-      <li><strong>African Shops in Germany:</strong> <a href="https://www.afrobizgermany.com" target="_blank">AfrobizGermany</a></li>
-    </ul>
+    <h2>Events & Summer Programs</h2>
+    <p>Stay tuned for cultural events, food festivals, music showcases, and global vibes. Tickets, locations, and surprises to be posted regularly.</p>
   </section>
 
   <section>
-    <h2>Music & Artists</h2>
-    <p>Stay up with powerful reggae & dancehall:</p>
-    <ul>
-      <li><a href="https://www.youtube.com/@BobMarley" target="_blank">Bob Marley</a></li>
-      <li><a href="https://www.youtube.com/@BujuBanton" target="_blank">Buju Banton</a></li>
-      <li><a href="https://www.youtube.com/@Popcaan" target="_blank">Popcaan</a>, <a href="https://www.youtube.com/@Stonebwoy" target="_blank">Stonebwoy</a>, <a href="https://www.youtube.com/@ShattaWale" target="_blank">Shatta Wale</a></li>
-    </ul>
+    <h2>Hair & Lifestyle</h2>
+    <p>Tips for dread maintenance, care routines, and natural products for locks and skin. Explore our section on hair food, creams, and daily wellness.</p>
+    <p><strong>Contact:</strong></p>
+    <p>Instagram: <a href="https://instagram.com/holardreads" target="_blank">@holardreads</a><br>
+    Facebook: Holar Dread<br>
+    Phone: +49 174 7246436</p>
   </section>
 
   <section>
-    <h2>Summer Programs</h2>
-    <p>Coming soon: Cultural Exchange and Events</p>
-    <ul>
-      <li>Music, Food & Dance from Africa & Europe</li>
-      <li>Community Meetups & Workshops</li>
-      <li>Travel stories, market links, cultural facts</li>
-    </ul>
+    <h2>Community & Shops</h2>
+    <p>Explore African shops in Germany and beyond. Featuring links to trusted vendors, products, and spaces that elevate the lifestyle.</p>
   </section>
 
-  <section>
-    <h2>Contact</h2>
-    <p>Connect on social media:</p>
-    <ul>
-      <li>Facebook: <a href="https://facebook.com/BurnaBurns" target="_blank">Burna Burns</a></li>
-      <li>Instagram: <a href="https://www.instagram.com/holardreads" target="_blank">@holardreads</a></li>
-    </ul>
-  </section>
-
-  <div class="footer">
-    <p>Powered by GitHub | Freegate – More than movement, it's a lifestyle.</p>
-  </div>
+  <footer>
+    <p>Roots & Culture | Powered by Freegate</p>
+    <p class="contact">GitHub: <a href="https://blaqqburn.github.io/Kweku-webesite/">Visit Site</a></p>
+  </footer>
 </body>
 </html>
