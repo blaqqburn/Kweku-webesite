@@ -3,96 +3,91 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="google-site-verification" content="Vwre_8EZeTJ557Q03PoYOYA-Z5TyCYv5WnX6S9eCDzc" />
+  <meta name="description" content="Freegate – The King's Journey. A digital roots journey of Rastafarian life, reggae, Afrobeats, dreads, and culture.">
+  <meta name="keywords" content="Rastafarian, Reggae, Afrobeats, Dancehall, Dreadlocks, Ghana, Hamburg, African shops, Freegate, Holar Dreads, cultural programs">
+  <meta name="google-site-verification" content="google8ad407f342d7c6ba.html" />
   <title>Freegate – The King's Journey</title>
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />
   <style>
     body {
       margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-image: url('https://blaqqburn.github.io/Kweku-webesite/bg.png');
+      font-family: 'Trebuchet MS', sans-serif;
+      background-image: url('A_vibrant_digital_illustration_in_Rastafarian_art_.png');
       background-size: cover;
       background-attachment: fixed;
       background-position: center;
-      color: white;
-      text-shadow: 1px 1px 3px black;
+      color: #fff;
     }
-    header, footer {
-      background-color: rgba(0, 0, 0, 0.7);
-      padding: 20px;
-      text-align: center;
+    .overlay {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 30px;
+      min-height: 100vh;
     }
-    h1 {
-      font-size: 2.5em;
-      color: gold;
-      margin-bottom: 10px;
-    }
-    p, ul {
-      max-width: 800px;
-      margin: 10px auto;
-      padding: 0 20px;
-    }
-    section {
-      background-color: rgba(0, 0, 0, 0.6);
-      margin: 20px auto;
-      padding: 20px;
-      border-radius: 12px;
-      width: 90%;
-      max-width: 900px;
+    h1, h2 {
+      color: #f5d442;
     }
     a {
-      color: #ffcc00;
+      color: #86e07d;
+      text-decoration: none;
     }
-    .contact {
-      font-size: 0.95em;
-      color: #ccc;
+    .section {
+      margin-bottom: 40px;
     }
   </style>
 </head>
 <body>
-  <header>
+  <div class="overlay">
     <h1>Freegate – The King's Journey</h1>
-    <p><strong>"Let's Share The Spirit of Togetherness"</strong></p>
-  </header>
+    <p><strong>Motto:</strong> “Let's Share The Spirit of Togetherness”</p>
 
-  <section>
-    <h2>Welcome</h2>
-    <p>This is a fusion of Accra and Hamburg vibes. A soulful journey through culture, reggae, dancehall, and Afrobeats. True to the roots, this site celebrates the evolution of royalty, the spirit of freedom, and the strength of a Rastaman King.</p>
-  </section>
+    <div class="section">
+      <h2>Music & Culture</h2>
+      <p>Root Reggae | Dancehall | Afrobeats</p>
+      <ul>
+        <li><a href="https://www.youtube.com/results?search_query=bob+marley" target="_blank">Bob Marley</a></li>
+        <li><a href="https://www.youtube.com/results?search_query=stonebwoy" target="_blank">Stonebwoy</a></li>
+        <li><a href="https://www.youtube.com/results?search_query=vybz+kartel" target="_blank">Vybz Kartel</a></li>
+        <li><a href="https://www.youtube.com/results?search_query=shatta+wale" target="_blank">Shatta Wale</a></li>
+      </ul>
+    </div>
 
-  <section>
-    <h2>Reggae, Dancehall & Afrobeats</h2>
-    <p>Experience the vibrations of legends and new wave warriors:</p>
-    <ul>
-      <li>Bob Marley, Buju Banton, Richie Spice, Sizzla</li>
-      <li>Vybz Kartel, Mavado, Shatta Wale, Stonebwoy</li>
-      <li>Popcaan, Masicka, Jahmiel, Govana, Alkaline, Teejay</li>
-    </ul>
-    <p>And the Afrobeats kings and queens shaping the global groove.</p>
-  </section>
+    <div class="section">
+      <h2>Summer Programs</h2>
+      <p>Explore cultural differences, traditions, music, and food from Ghana to Jamaica. Stay tuned for event updates!</p>
+    </div>
 
-  <section>
-    <h2>Events & Summer Programs</h2>
-    <p>Stay tuned for cultural events, food festivals, music showcases, and global vibes. Tickets, locations, and surprises to be posted regularly.</p>
-  </section>
+    <div class="section">
+      <h2>Events & Tickets</h2>
+      <p>Worldwide reggae & Afrobeats events. Find and book via trusted platforms like <a href="https://www.eventim.de" target="_blank">Eventim Germany</a>.</p>
+    </div>
 
-  <section>
-    <h2>Hair & Lifestyle</h2>
-    <p>Tips for dread maintenance, care routines, and natural products for locks and skin. Explore our section on hair food, creams, and daily wellness.</p>
-    <p><strong>Contact:</strong></p>
-    <p>Instagram: <a href="https://instagram.com/holardreads" target="_blank">@holardreads</a><br>
-    Facebook: Holar Dread<br>
-    Phone: +49 174 7246436</p>
-  </section>
+    <div class="section">
+      <h2>Dreadlocks Care</h2>
+      <p>Maintain the crown. Use natural oils, shea butter, and wash every 2 weeks with residue-free shampoo. Avoid waxes. Let them grow naturally and stay rooted.</p>
+    </div>
 
-  <section>
-    <h2>Community & Shops</h2>
-    <p>Explore African shops in Germany and beyond. Featuring links to trusted vendors, products, and spaces that elevate the lifestyle.</p>
-  </section>
+    <div class="section">
+      <h2>Holar Dreads Contact</h2>
+      <ul>
+        <li>Instagram: <a href="https://instagram.com/holardreads" target="_blank">@holardreads</a></li>
+        <li>Facebook: Holar Dread</li>
+        <li>Phone: +49 174 7246436</li>
+      </ul>
+    </div>
 
-  <footer>
-    <p>Roots & Culture | Powered by Freegate</p>
-    <p class="contact">GitHub: <a href="https://blaqqburn.github.io/Kweku-webesite/">Visit Site</a></p>
-  </footer>
+    <div class="section">
+      <h2>Hair Food & Natural Products</h2>
+      <p>Get your dreadlock creams, oils, and herbal shampoos from African shops in Hamburg or Berlin.</p>
+      <ul>
+        <li><a href="https://www.afrikafestival-hamburg.de/" target="_blank">Afrika Festival Hamburg</a></li>
+        <li><a href="https://www.naturshop.de" target="_blank">NaturShop.de</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Connect & Support</h2>
+      <p>Share, follow, and support the vibe. This is a royal journey for the people. One Love.</p>
+      <p>Instagram: <a href="https://instagram.com/burna_burns" target="_blank">@burna_burns</a></p>
+    </div>
+  </div>
 </body>
 </html>
