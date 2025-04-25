@@ -44,6 +44,9 @@
     .donate-btn:hover {
       background-color: #e4c23d;
     }
+    .social-btns a {
+      margin: 0 10px;
+    }
   </style>
 </head>
 <body>
@@ -96,17 +99,14 @@
     </div>
 
     <div class="section">
-      <h2>Support the Journey</h2>
-      <p>If you feel inspired by the vibes, content, or just want to show some love, donations are always appreciated. Every bit helps fuel the journey forward. Your support keeps the spirit alive!</p>
-      <a href="https://www.paypal.me/blaqqburna" target="_blank">
-        <button class="donate-btn">Donate via PayPal</button>
-      </a>
-    </div>
-
-    <div class="section">
       <h2>Connect & Support</h2>
-      <p>Share, follow, and support the vibe. This is a royal journey for the people. One Love.</p>
-      <p>Instagram: <a href="https://instagram.com/burna_burns" target="_blank">@burna_burns</a></p>
+      <p>If you feel inspired by the vibes, content, or just want to show some love, donations are always appreciated. Every bit helps fuel the journey forward. Your support keeps the spirit alive!</p>
+      <div class="social-btns">
+        <a href="https://www.paypal.me/blaqqburna" target="_blank">
+          <button class="donate-btn">Donate via PayPal</button>
+        </a>
+        <p>Follow on Instagram: <a href="https://instagram.com/burna_burns" target="_blank">@burna_burns</a></p>
+      </div>
     </div>
   </div>
 </body>
