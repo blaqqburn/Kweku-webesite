@@ -32,6 +32,18 @@
     .section {
       margin-bottom: 40px;
     }
+    .donate-btn {
+      background-color: #f5d442;
+      color: black;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .donate-btn:hover {
+      background-color: #e4c23d;
+    }
   </style>
 </head>
 <body>
@@ -81,6 +93,14 @@
         <li><a href="https://www.afrikafestival-hamburg.de/" target="_blank">Afrika Festival Hamburg</a></li>
         <li><a href="https://www.naturshop.de" target="_blank">NaturShop.de</a></li>
       </ul>
+    </div>
+
+    <div class="section">
+      <h2>Support the Journey</h2>
+      <p>If you feel inspired by the vibes, content, or just want to show some love, donations are always appreciated. Every bit helps fuel the journey forward. Your support keeps the spirit alive!</p>
+      <a href="https://www.paypal.me/blaqqburna" target="_blank">
+        <button class="donate-btn">Donate via PayPal</button>
+      </a>
     </div>
 
     <div class="section">
