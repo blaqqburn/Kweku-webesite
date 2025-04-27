@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="description" content="Freegate – The King's Journey. A digital roots journey of Rastafarian life, reggae, Afrobeats, dreads, and culture.">
   <meta name="keywords" content="Rastafarian, Reggae, Afrobeats, Dancehall, Dreadlocks, Ghana, Hamburg, African shops, Freegate, Holar Dreads, cultural programs">
-  <meta name="google-site-verification" content="google8ad407f342d7c6ba.html" />
+  <meta name="google-site-verification" content="SBBH3TA2kVIWz4VOnkN5ESGeKXk_zfF3jFLPoxA3ft0" />
   <title>Freegate – The King's Journey</title>
   <style>
     body {
@@ -106,6 +105,7 @@
           <button class="donate-btn">Donate via PayPal</button>
         </a>
         <p>Follow on Instagram: <a href="https://instagram.com/burna_burns" target="_blank">@burna_burns</a></p>
+        <p>Contact: <a href="mailto:freegateconnect@gmail.com">freegateconnect@gmail.com</a></p>
       </div>
     </div>
   </div>
